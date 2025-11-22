@@ -5,8 +5,7 @@ import pyautogui as pg
 ROOT = os.getcwd()
 IMGS = f'{ROOT}/pics'
 
-EPSILON = 0.01
-
+EPSILON = 0.02
 CONFIDENCES = {
     'unsolved': 0.99,
     'zero': 0.99,
