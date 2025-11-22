@@ -6,6 +6,7 @@ Of course, since this is a Reinforcement Learning project, the above statement s
   <img src='before_after_train.gif'/>
 </p>  
 
+
 ### Acknowledgments
 Some code in this repo were adapted from:
 - [Sentdex's Deep-Q Learning Tutorial Series](https://www.youtube.com/watch?v=yMk_XtIEzH8&ab_channel=sentdex)
